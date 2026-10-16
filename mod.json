@@ -1,0 +1,11 @@
+{
+  "id": "lob",
+  "name": "LibraryOfBalatro",
+  "author": ["Sodafilledcans"],
+  "description": "Library of Ruina Combat balatro thing idk bro something like that",
+  "prefix": "lob",
+  "badge_colour": "3FC7EB",
+  "dependencies": ["Steamodded (>=26.1002.0)"],
+  "main_file": "main.lua",
+  "version": "1.0.0"
+}
